@@ -1,6 +1,6 @@
 # Stanford CS106 Breakout
 
-This is my solution to CS106 Brakout assignment.
+This is my solution to CS106 Breakout assignment.
 
 ![](breakout-demo.gif)
 
